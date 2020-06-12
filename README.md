@@ -30,16 +30,17 @@ Message: Hi husni, what is our current report status?.
 .
 ```
 
-To end **Message** user need to send **"."** to the the server
+To end **Message** user need to send **"."** to the the server.
 
-### Check received messages
-Open folder name **"email"**
+### To read received messages
+Open folder name **"email"**.
 
 <div style="text-align:center"><img src="/images/file.JPG" /></div>
 
-Rename file format to **.text**
+Rename file format to **.text**.
 
 <div style="text-align:center"><img src="/images/rename.JPG" /></div>
 
+Content of email.
 
-
+<div style="text-align:center"><img src="/images/content.JPG" /></div>
