@@ -2,7 +2,19 @@
 This client code can be used to interact with simple SMTP servers. This code use TCP protocol using socket programming.server.
 
 ### Requirement 
-Python 2.7<br>
+Python 2.7
+
+## Library
+**Server**
+from socket import *
+import threading
+import datetime
+
+**Client**
+import os.path
+import re
+from socket import *
+import sys
 
 ### Run Server
 Open commmand prompt/terminal  and run:
